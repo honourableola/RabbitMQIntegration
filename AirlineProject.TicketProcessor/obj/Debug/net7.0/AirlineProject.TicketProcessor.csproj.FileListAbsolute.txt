@@ -1,0 +1,15 @@
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\bin\Debug\net7.0\AirlineProject.TicketProcessor.exe
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\bin\Debug\net7.0\AirlineProject.TicketProcessor.deps.json
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\bin\Debug\net7.0\AirlineProject.TicketProcessor.runtimeconfig.json
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\bin\Debug\net7.0\AirlineProject.TicketProcessor.dll
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\bin\Debug\net7.0\AirlineProject.TicketProcessor.pdb
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.csproj.AssemblyReference.cache
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.AssemblyInfoInputs.cache
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.AssemblyInfo.cs
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.csproj.CoreCompileInputs.cache
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.dll
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\refint\AirlineProject.TicketProcessor.dll
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.pdb
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\AirlineProject.TicketProcessor.genruntimeconfig.cache
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineProject.TicketProcessor\obj\Debug\net7.0\ref\AirlineProject.TicketProcessor.dll
