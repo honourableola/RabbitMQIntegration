@@ -31,3 +31,4 @@ C:\Users\MATRIX\Documents\RabbitMQ\AirlineAPI\obj\Debug\net7.0\refint\AirlineAPI
 C:\Users\MATRIX\Documents\RabbitMQ\AirlineAPI\obj\Debug\net7.0\AirlineAPI.pdb
 C:\Users\MATRIX\Documents\RabbitMQ\AirlineAPI\obj\Debug\net7.0\AirlineAPI.genruntimeconfig.cache
 C:\Users\MATRIX\Documents\RabbitMQ\AirlineAPI\obj\Debug\net7.0\ref\AirlineAPI.dll
+C:\Users\MATRIX\Documents\RabbitMQ\AirlineAPI\bin\Debug\net7.0\RabbitMQ.Client.dll
